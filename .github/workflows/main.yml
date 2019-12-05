@@ -1,0 +1,14 @@
+name: CI
+
+on: [pull_request]
+
+jobs:
+  validate:
+    name: validate signee format
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+      with:
+        fetch-depth: 1
+    - run: npm i parse-diff
+    - run: node .github/workflows/validate.js
