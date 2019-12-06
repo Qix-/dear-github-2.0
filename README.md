@@ -57,6 +57,7 @@ Signed,
 - Boaz Sender (Bocoup, OpenJS Foundation, Processing Foundation, W3C, Ecma International)
 - Daniel Stockman, @evocateur (Lerna)
 - Itamar Turner-Trauring, @itamarst (Eliot, formerly Twisted and Telepresence)
+- Mike Wasowski, @qix- (foo)
 - Natalie Weizenbaum, @nex3 (Sass)
 - Greg Wilson, @gvwilson (RStudio)
 
